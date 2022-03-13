@@ -1,1 +1,1 @@
-These files are part of my learning in Platzi. Part of the course professional python course.
+These files are part of my learning path in Platzi. Specifically, part of the course professional python course.
